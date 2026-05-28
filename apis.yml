@@ -1,0 +1,32 @@
+aid: tisane
+name: Tisane
+description: "Text Analytics with focus on detection of abusive content and law enforcement applications"
+url: https://tisane.ai/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: Tisane
+    description: "Text Analytics with focus on detection of abusive content and law enforcement applications"
+    humanURL: https://tisane.ai/
+    baseURL: https://tisane.ai/
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://tisane.ai/
+common:
+  - type: Website
+    url: https://tisane.ai/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
