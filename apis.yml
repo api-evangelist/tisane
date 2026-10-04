@@ -39,7 +39,6 @@ apis:
   - name: Tisane
     description: "Text Analytics with focus on detection of abusive content and law enforcement applications"
     humanURL: https://tisane.ai/
-    baseURL: https://tisane.ai/
     tags:
       - Text Analysis
     properties:
